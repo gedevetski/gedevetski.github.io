@@ -1,0 +1,20 @@
+body {
+	background: url(https://i.imgur.com/76VnBHc.jpg);
+  	background-size: cover;
+  	color: #fff;
+  	font-family: "Avenir";
+  	text-align: center;
+}
+
+h1 { 
+	color: #8B0000;
+	font-style: italic;
+	font-family: "Avenir";
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#tagline {
+	font-weight: bold;
+	text-transform: uppercase;
+}
